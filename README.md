@@ -5,11 +5,8 @@ date: 01/03/2019
 autosize: true
 font-family: 'Helvetica'
 
-2. Summary
-========================================================
-
 This presentation covers the following aspects:
 
 - The application can be run at: <https://nicoflinta.shinyapps.io/rshinyapp2/>
-- The presentation is in Rpubs at: you are already there! :)
+- The presentation is in Rpubs at: <http://rpubs.com/nicoflinta/472152>
 - The app code is in GitHub at: <https://github.com/nicoflinta/PresentationPitch>
